@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Cell Towers in Oregon (2009)</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+</head>
+<body>
+
+
+
+<!--<div id='map'></div>-->
+<div id="map" style="width: 900px; height: 600px;"></div>
+<script>
+    // 1. Create a map object.
+    var mymap = L.map('map', {center: [44.13, -119.93], zoom: 7});
+
+    // 2. Add a base map.
+    L.tileLayer('https://api.mapbox.com/styles/v1/jillianwashere/cj98qygj21rg02sp8byf9xxei/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiamlsbGlhbndhc2hlcmUiLCJhIjoiY2ozM2Y5MG4xMDBseTJxbXJhbDA4bjJqeCJ9.jbViok8QJjYYBsPVj43YKw', {
+        detectRetina: true,
+        attribution: 'c& Jillian Pihulak 2017'
+    }).addTo(mymap);
+</script>
+<div id="credits">
+    <p> Winter 2017 | GEOG 371 | Geovisualization: Web Mapping &copy; Bo Zhao, CEOAS, OSU</p>
+</div>
+</body>
+</html>
+
+
