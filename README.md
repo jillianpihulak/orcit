@@ -17,7 +17,7 @@
 |                                        |            |      |                  |                  |                               |      |
 |                                        |            |      |                  |                  |                               |      |
 
-(Portland Metro)[orcit#Portland Metro]
+(Portland Metro)[# Portland Metro]
 
 
 [Portland City Boundaries Shapefile](http://gis-pdx.opendata.arcgis.com/datasets/city-boundaries)  
