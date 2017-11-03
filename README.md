@@ -8,5 +8,6 @@ Medford | # | # | # | #|
 
 
 
-[Portland City Boundaries Shapefile](http://gis-pdx.opendata.arcgis.com/datasets/city-boundaries)
-[Census Info - Portland](https://www.census.gov/quickfacts/fact/table/portlandcityoregon/PST045216)
+[Portland City Boundaries Shapefile](http://gis-pdx.opendata.arcgis.com/datasets/city-boundaries)  
+[Census Info - Portland](https://www.census.gov/quickfacts/fact/table/portlandcityoregon/PST045216)  
+Include mini Oregon in the corner to show where in Oregon city is?
