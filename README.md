@@ -22,6 +22,7 @@
 | City       | Population (2016) | County | Year Established | Growth Since 2010 | Projected Growth |
 | ---------- | ----------------- | ------ | ---------------- | ----------------- | ---------------- |
 | Baker City | 9,770             | Baker  | 1874             | -0.6%             |                  |
+| Corvallis  | 57,110            | Benton | 1855             | 4.8%              | 
 
 
 
