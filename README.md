@@ -25,7 +25,10 @@
 | Corvallis  | 57,110            | Benton | 1855             | 4.8%              | 
 
 
+## Story Map Layout
 
+1. Open with landing page/intro about what the map presents (put explaination in here)
+2. Go in alphabetical or spatial order by county for each slide
 
 
 [Portland City Boundaries Shapefile](http://gis-pdx.opendata.arcgis.com/datasets/city-boundaries)  
