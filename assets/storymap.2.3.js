@@ -154,9 +154,6 @@
             }
 
 
-            $(".storymap-map .leaflet-control-attribution")
-                .addClass("storymap-attribution")
-                .html("<a href='https://github.com/jakobzhao/storymap'><img src='../../img/logo.png' width='18px' target='_blank' > storymap.js </a>");
 
             if (settings.credits) {
                 $(".storymap-attribution").find("a").prepend(settings.credits + " | ");
